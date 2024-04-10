@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"esp_check.h": "c",
+			"esp_err.h": "c",
+			"esp_bt_main.h": "c",
+			"esp_bt_defs.h": "c"
+		}
+	}
+}
